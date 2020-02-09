@@ -1,0 +1,2 @@
+This directory is for executing .py files on the main startup. It is named 'autoexec' for this reason, and it should be used that way. Additionally, it may be used as a module importer. All Python files in this directory will be executed. So, if you wish to create modules, create ONE Python file that links to another sub-directory in here, for convenience purposes.
+
